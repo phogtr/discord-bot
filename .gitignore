@@ -1,0 +1,5 @@
+.vscode
+.env
+cogs/__pycache__
+testing.mp3
+rsrc/fortune_quote.txt
